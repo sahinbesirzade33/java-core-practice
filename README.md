@@ -1,2 +1,2 @@
-# java-core-practice
-Java Core practice projects and examples
+# Java Core Practice
+My Java Core learning and practice repository.
